@@ -1,0 +1,45 @@
+html{
+    background-color: white;
+    background-image: url(src/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+body{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.show,
+.showTwo{
+    display:  none;
+}
+
+.on{
+    display: block;
+}
+
+audio{
+    margin-left: 80%;
+    margin-top: 1%;
+    
+}
+
+.front{
+    text-align: right;
+    margin: 10%;
+    line-height: 200%;
+}
+
+.result{
+    margin-right: 14%;   
+}
+
+.rin{
+    margin-top: -5%;
+}
+
+.rangeScroll{
+    border-color: black;
+}

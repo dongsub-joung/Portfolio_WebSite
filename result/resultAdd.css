@@ -1,0 +1,19 @@
+/* classList.add 
+    +form들에 대해서 기본적으로 숨김   */
+
+.showList{
+    display: none;
+}
+      
+/*  +클릭하면 보이는 애니메이션 효과 */
+.show{
+    display: inline-block;
+    animation: fadein  2s;
+}
+      
+/*  +하단의 제목에  */
+.marginVal{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    margin-bottom: 0%;
+}
