@@ -4,8 +4,12 @@
 
 ## Table of Contents
 
-[TOC]
-
+- [Background](#Background)
+- [Structure](#Structure)
+- [CSS](#CSS)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#license)
 
 
 ## Background
@@ -14,7 +18,7 @@ I've created a site to collect all the things I've made so far.
 
 
 
-## structure
+## Structure
 
 + index.html	//intro
   + result/result.html 	//Self-Introduction
